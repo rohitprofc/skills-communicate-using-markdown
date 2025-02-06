@@ -5,3 +5,7 @@
 ```python
 my_name = "Rohit Chess"
 ```
+## To-do list
+- [x] Complete research paper
+- [x] Prepare for Apty
+- [ ] Complete pending courses
